@@ -1,0 +1,18 @@
+body{
+    background-color: whitesmoke;
+    background-repeat: no-repeat;
+}
+
+.Text {
+    text-transform: uppercase;
+    font-size: 16px;
+    line-height: 25px;
+    color: rgb(105, 46, 10);
+}
+
+body {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 520;
+    font-style: normal;
+    line-height: 50px;
+  }
