@@ -1,0 +1,27 @@
+body {
+    background-color: beige;
+    background-repeat: no-repeat;
+}
+
+body {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 520;
+    font-style: normal;
+    line-height: 50px;
+  }
+
+  .Aef{
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 75px;
+    color: indigo;
+    text-shadow: 2px 2px 5px #e6fc69;
+}
+
+.Ben{
+    border: 5px;
+    border-color: indigo;
+    border-style: solid;
+}
+
+  

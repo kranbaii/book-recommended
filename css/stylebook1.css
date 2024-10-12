@@ -20,7 +20,28 @@ body {
 
 .King {
     text-transform: uppercase;
-    font-size: 40px;
+    font-size: 35px;
     line-height: 45px;
 }
 
+.pin {
+    text-transform: uppercase;
+    font-size: 35px;
+    line-height: 60px;
+    color: crimson;
+}
+
+.ppin {
+    text-transform: uppercase;
+    font-size: 20px;
+    line-height: 25px;
+    color: crimson;
+}
+
+.Fai{
+    text-transform: uppercase;
+    font-size: 35px;
+    line-height: 75px;
+    color: indigo;
+    text-shadow: 2px 2px 5px #e6fc69;
+}
